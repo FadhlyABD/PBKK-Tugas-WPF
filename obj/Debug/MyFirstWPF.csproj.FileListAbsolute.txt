@@ -1,0 +1,15 @@
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.exe.config
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.exe
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.pdb
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.csproj.AssemblyReference.cache
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MainWindow.g.cs
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\App.g.cs
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF_MarkupCompile.cache
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF_MarkupCompile.lref
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MainWindow.baml
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.g.resources
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.Properties.Resources.resources
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.csproj.GenerateResource.cache
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.csproj.CoreCompileInputs.cache
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.exe
+C:\Users\62813\source\repos\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.pdb
